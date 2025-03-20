@@ -1,2 +1,6 @@
 configs/environment/.env
 web-ext-artifacts
+node_modules
+core/node_modules
+icons/node_modules
+dist
